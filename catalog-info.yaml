@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Local-Readme
+  title: Local Readme
+  description: |-
+    This is stuff we have
+spec:
+  type: website
+  lifecycle: poc
+  owner: Pike
